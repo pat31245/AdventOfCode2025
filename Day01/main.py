@@ -1,4 +1,3 @@
-
 dial = 50
 zero_count = 0
 

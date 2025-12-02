@@ -1,9 +1,5 @@
 import os
 
-def printDebug(s):
-    print(s)
-    pass
-
 for name in os.listdir("."):
     # skip .py and output files
     if not name.endswith(".txt"):

@@ -1,6 +1,5 @@
 import os
 import re
-import math
 
 for name in os.listdir("."):
     # only iterate through .txts
